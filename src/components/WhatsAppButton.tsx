@@ -1,6 +1,6 @@
 import { FaWhatsapp } from "react-icons/fa";
 
-const WHATSAPP_NUMBER = "923402573560"; // country code required
+const WHATSAPP_NUMBER = "923150657943"; // country code required
 const DEFAULT_MESSAGE = "Hello Softyanix, I want to discuss a project.";
 
 const WhatsAppButton = () => {
